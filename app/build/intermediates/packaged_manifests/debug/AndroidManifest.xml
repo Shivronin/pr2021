@@ -18,7 +18,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.GoRacing" >
+        android:testOnly="true"
+        android:theme="@style/Theme.Gonochci" >
         <activity
             android:name="com.example.goracing.MainActivity"
             android:exported="true" >

@@ -23,7 +23,7 @@
         android:layout_margin="15dp"
         android:gravity="center"
         android:text="Start"
-        android:backgroundTint="#FD397C"
+        android:backgroundTint="#FD100C"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </LinearLayout>
